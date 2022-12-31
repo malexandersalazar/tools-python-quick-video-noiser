@@ -1,8 +1,8 @@
 # Quick video noiser tool
 
-![alt text](/img/speckle.png "Quick video noiser tool")
+![alt text](/img/speckle.png "Quick video noiser tool - speckle")
 
- A Python tool based on ffmpeg and OpenCV to add noise to videos quickly.
+A Python tool based on ffmpeg and OpenCV to add noise to videos quickly.
 
 ## Installation
 
@@ -24,7 +24,7 @@ You can also set the noise type as a parameter: `saltpepper` or `speckle` (defau
 
 > python qvn.py W:\lyra-iorek.mp4 saltpepper
 
-![alt text](/img/saltpepper.png "Quick video noiser tool")
+![alt text](/img/saltpepper.png "Quick video noiser tool - saltpepper")
 
 ## Dependencies
 
